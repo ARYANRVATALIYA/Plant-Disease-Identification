@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">PDI App</string>
+
+    <string name="disease1">Apple scab</string>
+
+    <string name="desc11">Disease symptoms: 1. Yellow or chlorotic spots on leaves. 2. Dark olive green spots on leaves and fruit 3. May be a velvety growth on spots on undersides of leaves. 4. Twisting of leaves. 5. Distorted leaves 6. Severely infected leaves turn yellow and drop from tree.Prevention and control 1. Remove all leaves dropped from tree in the fall and compost to prevent any diseases surviving in debris. 2. Application of zinc and fertilizer grade urea in the Fall may be necessary to speed leaf drop, lime should then be added to fallen leaves. 3. Fungicide application may be necessary in areas where leaves remain wet for periods in excess of 9 hours. 4. Fungicides such as copper soaps and Bordeaux mixture should be applied if there is a chance of wet period as soon as leaf tips emerge.</string>
+
+    <string name="disease2">Black rot</string>
+
+    <string name="desc21"> Disease symptoms: 1. Purple flecks or circular lesions which are brown in the centre and purple at margin. 2. Red flecks, purple lesions and/or brown black rings on fruit.
+        Prevention and control 1. Remove dead wood, mummified fruit and cankers from trees to reduce spread of disease. 2. Burn any prunings that have been made from the tree. 3. Disease can be controlled by applying fungicides from silver tip to harvest.</string>
+
+    <string name="disease3">Apple rust</string>
+
+    <string name="desc31"> Disease symptoms: 1. Bright orange or yellow patches on top side of leaves surrounded by a red band and small black spots in the center. 2. By mid-summer, cup-like structures called aecia form on the leaf undersides, these become covered in tubular structures from which spores are released.
+        Prevention and control 1. Plant resistant varieties where possible. 2. Remove nearby red cedar 3. If growing susceptible varieties in proximity to red cedar follow a fungicide program.</string>
+
+    <string name="disease4">Flyspeck</string>
+
+    <string name="disease5">Mildew</string>
+
+    <string name="disease6">Blight</string>
+
+    <string name="disease7">Root rot</string>
+
+    <string name="disease8">Aphids</string>
+
+    <string name="disease9">Maggot</string>
+
+</resources>

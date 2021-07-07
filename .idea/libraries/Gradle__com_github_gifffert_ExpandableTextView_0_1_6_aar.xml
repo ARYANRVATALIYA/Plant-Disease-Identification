@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.gifffert:ExpandableTextView:0.1.6@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a464e7944f8dbb6c069e5ebc83cd1ca0/ExpandableTextView-0.1.6/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a464e7944f8dbb6c069e5ebc83cd1ca0/ExpandableTextView-0.1.6/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a464e7944f8dbb6c069e5ebc83cd1ca0/ExpandableTextView-0.1.6/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.gifffert/ExpandableTextView/0.1.6/6ca84d845f9666fbbc2aa26ce37ddb4e965f2b7a/ExpandableTextView-0.1.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
